@@ -1,0 +1,23 @@
+.article {
+    width: 60%;
+    display: inline-block;
+    text-align: left;
+}
+
+.article h1 {
+    font-size: 22px;
+    line-height: 1.4;
+    margin-bottom: 14px;
+}
+.article .author {
+    color: rgba(0,0,0,.5);
+    margin-bottom: 22px;
+    line-height: 20px;
+    word-wrap: break-word;
+}
+
+.author .name {
+    background: aliceblue;
+    padding: 3px 5px;
+    border-radius: 4px;
+}
